@@ -1,0 +1,21 @@
+food,category,serving,calories,protein_g,carbs_g,fat_g,sodium_mg
+Jollof rice,Grains,1 cup (200 g),350,6,60,9,600
+White rice,Grains,1 cup (160 g),205,4,45,0.4,2
+Eba (garri),Grains,1 wrap (250 g),360,2,88,0.5,10
+Pounded yam,Grains,1 wrap (250 g),300,4,70,0.4,10
+Pao de queijo,Grains,3 pieces (75 g),240,6,27,12,330
+Bread (white),Grains,2 slices (60 g),160,5,30,2,300
+Fried plantain (dodo),Fruits,1 cup (150 g),340,2,55,14,5
+Banana,Fruits,1 medium (120 g),105,1.3,27,0.4,1
+Orange,Fruits,1 medium (130 g),62,1.2,15,0.2,0
+Moi moi,Proteins,1 wrap (150 g),220,12,20,10,350
+Beans porridge,Proteins,1 cup (250 g),300,15,45,7,450
+Feijao (cooked black beans),Proteins,1 cup (170 g),230,15,41,1,5
+Fried egg,Proteins,1 egg (50 g),90,6,0.4,7,95
+Grilled chicken,Proteins,1 breast (120 g),200,37,0,4.5,90
+Suya (beef),Proteins,1 skewer (100 g),250,26,4,14,500
+Egusi soup,Soups,1 cup (250 g),420,18,10,35,700
+Efo riro,Soups,1 cup (250 g),280,10,8,22,650
+Farofa,Sides,1/2 cup (40 g),190,1,22,10,250
+Milk (whole),Drinks,1 cup (240 ml),150,8,12,8,105
+Soft drink,Drinks,1 can (350 ml),150,0,39,0,45
