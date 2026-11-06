@@ -8,7 +8,7 @@ To run it, open a terminal in the project folder and run `Rscript nutricheck.R`.
 
 My purpose for writing this software was to learn how R handles data differently from the languages I already know, using a topic close to my background in food technology. I also plan to build on this program later to analyze eating patterns over time.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Uae6NI_s_Jg)
 
 # Development Environment
 
